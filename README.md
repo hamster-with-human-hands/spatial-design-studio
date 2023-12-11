@@ -15,7 +15,7 @@ The project aimed to enhance social connections among AMD employees by transform
 
 **replicate_imgs.zip** contains the architecture images obtained from kaggle, which is used as dataset to finetune and train the model
 
-**iter_2.ipynb, iter_3.ipynb, iter_4.ipynb, iter_5.ipynb** various code iteration as shared in the report
+**iter_2.ipynb, iter_3.ipynb, iter_4.ipynb, iter_5.ipynb, iter_5_lora.ipynb** various code iteration as shared in the report, with **iter_5_lora.ipynb** being the final iteration finetuned with our own dataset using LoRA.
 
 ---
 ## Relevant Links
